@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android/CreatPlant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="eaa894b91451c0b65183694755b78cd6b1f2ec48">
+        <dex dex="/Applications/Android/CreatPlant/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce34f086012039079883f2768f2b74da048bb11f/classes.dex" />
+    </item>
+
+</items>
